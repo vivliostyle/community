@@ -1,8 +1,9 @@
-# Vivliostyle Project
+# discussion
 
-- [vivliostyle.js](https://github.com/vivliostyle/vivliostyle.js)
-- [vivliostyle-ui](https://github.com/vivliostyle/vivliostyle-ui)
+Both English and Japanese are accepted for discussion.
+
+- [vivliostyle](https://github.com/vivliostyle/vivliostyle)
+- [vivliostyle-cli](https://github.com/vivliostyle/vivliostyle-cli)
 - [vivliostyle-print](https://github.com/vivliostyle/vivliostyle-print)
-- [vivliostyle-savepdf](https://github.com/vivliostyle/vivliostyle-savepdf)
 
 Project website: **[vivliostyle.org](https://vivliostyle.org)**
