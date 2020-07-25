@@ -1,13 +1,13 @@
-# Discussion
+# Vivliostyle Community
 
-Both English and Japanese are accepted in discussion.
+English | [日本語](README.ja.md)
 
-Project website: **[vivliostyle.org](https://vivliostyle.org)**
+Vivliostyle community information is summarized here. Discussions in English and Japanese are possible here.
 
-## Proposals
+Open an issue for the proposals that could affects entire Vivliostyle project.
 
-Open an issue for the proposals that could affects entire project.
+## Community Information
 
-## Developer Meeting
-
-- [meeting log@Slack](https://github.com/vivliostyle/discussion/wiki/slack-meeting-log)
+- Project Web Site: **[vivliostyle.org](https://vivliostyle.org)**
+- [Slack](https://vivliostyle.slack.com/)
+- [Slack logs](slack-logs/index.md)
