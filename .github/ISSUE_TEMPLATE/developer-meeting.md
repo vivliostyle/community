@@ -25,9 +25,8 @@ assignees: akabekobeko
 - Description
 - Description
 
-## Full minutes
+## Members
 
-**Present:**
 - @MurakamiShinyu
 - @ogwata
 - @spring-raining
@@ -35,8 +34,7 @@ assignees: akabekobeko
 - @youchan
 - @yamasy1549
 - @takanakahiko
-- @akabekobeko
-
-**Regrets:**
-
-**Scribe:** @akabekobeko
+- @llminatoll (Advisors)
+- @lwohtsu (Advisors)
+- @kondoyuko (Advisors)
+- @akabekobeko (Scribe)
