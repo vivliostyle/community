@@ -25,7 +25,4 @@ assignees: akabekobeko
 - @youchan
 - @yamasy1549
 - @takanakahiko
-- @llminatoll (Advisors)
-- @lwohtsu (Advisors)
-- @kondoyuko (Advisors)
 - @akabekobeko (Scribe)
