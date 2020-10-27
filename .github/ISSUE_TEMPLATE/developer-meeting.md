@@ -11,16 +11,7 @@ assignees: akabekobeko
 |:--:|:--:|:--:|
 |Month 00, 2020 JST | 00:00-00:00 |Online|
 
-## Advisors
-
-### Agenda
-
-- Description
-- Description
-
-## Developers
-
-### Agenda
+## Agenda
 
 - Description
 - Description
