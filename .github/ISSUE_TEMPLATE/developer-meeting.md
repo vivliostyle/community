@@ -9,7 +9,7 @@ assignees: akabekobeko
 
 |date | time | location|
 |:--:|:--:|:--:|
-|Month 00, 2020 JST | 00:00-00:00 |Online|
+|Month 00, 2020 JST | 14:00-16:00 |Online|
 
 ## Agenda
 
@@ -21,8 +21,6 @@ assignees: akabekobeko
 - @MurakamiShinyu
 - @ogwata
 - @spring-raining
-- @uetchy
-- @youchan
 - @yamasy1549
 - @takanakahiko
 - @akabekobeko (Scribe)
