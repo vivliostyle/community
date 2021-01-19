@@ -11,6 +11,8 @@ assignees: akabekobeko
 |:--:|:--:|:--:|
 |Month 00, 2021 JST | 14:00-16:00 |Online|
 
+- [Meeting Log]()
+
 ## Agenda
 
 - Description
