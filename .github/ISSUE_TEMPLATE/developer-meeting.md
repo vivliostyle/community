@@ -1,7 +1,7 @@
 ---
 name: Developer Meeting
 about: Describe this developer meeting template's purpose here.
-title: Month 2021
+title: Month 2022
 labels: meeting
 assignees: akabekobeko
 
@@ -9,7 +9,7 @@ assignees: akabekobeko
 
 |date | time | location|
 |:--:|:--:|:--:|
-|Month 00, 2021 JST | 14:00-16:00 |Online|
+|Month 00, 2022 JST | 14:00-16:00 |Online|
 
 - [Meeting Log]()
 
