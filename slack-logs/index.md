@@ -14,5 +14,6 @@
 - [q-and-a](q-and-a/index.md)
 - [random](random/index.md)
 - [techbookfest](techbookfest/index.md)
+- [themes](themes/index.md)
 - [vfm](vfm/index.md)
 - [vivliostyle-pub](vivliostyle-pub/index.md)
