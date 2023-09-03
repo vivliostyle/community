@@ -2,7 +2,7 @@
 name: Slack
 about: For issues related to Vivliostyle Slack
 title: ''
-labels: documentation
+labels: ''
 assignees: ''
 
 ---

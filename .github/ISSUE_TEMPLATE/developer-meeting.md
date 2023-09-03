@@ -24,6 +24,5 @@ assignees: akabekobeko
 - @ogwata
 - @spring-raining
 - @yamasy1549
-- @takanakahiko
 - @UskeS
 - @akabekobeko (Scribe)
