@@ -6,6 +6,7 @@
 - [development](development/index.md)
 - [documentation](documentation/index.md)
 - [general](general/index.md)
+- [hands-on](hands-on/index.md)
 - [issues](issues/index.md)
 - [meeting-log](meeting-log/index.md)
 - [meetup](meetup/index.md)
