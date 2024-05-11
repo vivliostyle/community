@@ -23,7 +23,6 @@ assignees: akabekobeko
 - @MurakamiShinyu
 - @ogwata
 - @spring-raining
-- @yamasy1549
 - @UskeS
 - @lwohtsu
 - @akabekobeko (Scribe)
